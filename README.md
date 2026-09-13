@@ -17,7 +17,7 @@ The purpose of this repository is to showcase my progress in learning React JS f
 * Component Reusability
 * Basic Frontend Development Concepts
 
-## 📚 What I Learned
+##  What I Learned
    
 Through these projects, I gained practical understanding of:
 
@@ -29,7 +29,7 @@ Through these projects, I gained practical understanding of:
 * Debugging and problem-solving
 * Organizing frontend project structure
 
-## 💡 Skills Developed
+##  Skills Developed
 
 * Frontend Development
 * React Fundamentals
@@ -39,11 +39,11 @@ Through these projects, I gained practical understanding of:
 * Code Structuring
 * Practical Project Development
 
-## 🎯 Learning Experience
+##  Learning Experience
 
 This semester helped me transition from basic webpage development to interactive frontend applications using React JS. Working on these projects improved both my technical skills and confidence in modern web development.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * React JS Practice Projects
 * JavaScript-Based Components
