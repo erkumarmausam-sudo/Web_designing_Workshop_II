@@ -4,6 +4,7 @@ Welcome to my second semester web development repository. This repository contai
 
 ##  About the Repository
 
+
 The purpose of this repository is to showcase my progress in learning React JS fundamentals, JavaScript logic building, and component-based application development through hands-on practice and mini projects.
 
 ## 🛠️ Technologies & Concepts Used
