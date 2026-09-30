@@ -18,8 +18,8 @@ The purpose of this repository is to showcase my progress in learning React JS f
 * Component Reusability
 * Basic Frontend Development Concepts
 
-##  What I Learned
-   
+##  What I Learned  
+     
 Through these projects, I gained practical understanding of:
 
 * Building dynamic user interfaces
