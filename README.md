@@ -29,7 +29,7 @@ Through these projects, I gained practical understanding of:
 * JavaScript logic implementation
 * Debugging and problem-solving
 * Organizing frontend project structure
-
+ 
 ##  Skills Developed
 
 * Frontend Development
